@@ -7,6 +7,6 @@ The naming convention does not follow the chapters until 0.9 = Ch9
 
 This will follow the process in his code repository closely, culminating
 with 3 final models built *from scratch* to do the following:\
-Classification\ 
+Classification\
 Optimization\
-Prediction\
+Prediction
