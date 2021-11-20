@@ -9,4 +9,5 @@ This will follow the process in his code repository closely, culminating
 with 3 final models built *from scratch* to do the following:\
 Classification\
 Optimization\
-Prediction
+Prediction\
+Back propogation
